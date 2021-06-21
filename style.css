@@ -5,4 +5,9 @@ html {
 
 a {
     color: #4dad23;
+    text-decoration: none;
 }
+
+a:hover {
+    text-decoration: underline;
+  }

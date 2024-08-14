@@ -1,13 +1,17 @@
 html {
-    background-color: black;
-    color: #4dad23;
+  background-color: black;
+  color: #4dad23;
 }
 
 a {
-    color: #4dad23;
-    text-decoration: none;
+  color: #4dad23;
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
+}
+
+p {
+  margin: auto;
 }
